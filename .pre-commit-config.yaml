@@ -19,7 +19,7 @@ repos:
         stages: [commit-msg]
 
   - repo: https://github.com/jdx/jactionlint
-    rev: baa8d685e2b27ff5821558c9eeabb2051c1da61b  # frozen: v2.4.0
+    rev: 72c00452809bcca05b8bc12acdcf15dd7a9c1c5e  # frozen: v2.6.0
     hooks:
       - id: jactionlint
 
